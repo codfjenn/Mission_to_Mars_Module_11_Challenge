@@ -6,6 +6,7 @@
   - The data included 12 unique months.
 - Which month, on average, has the lowest temperature? The highest? 
   - The chart below supports the month with the lowest temperature as March (Month 3) and the highest temperature as August (Month 8). 
+
 ![Avg Temp by Month](https://github.com/codfjenn/Mission_to_Mars_Module_11_Challenge/blob/main/Average%20Temp%20By%20Month.png)
 
 - Which month, on average, has the lowest atmospheric pressure? The highest? 
